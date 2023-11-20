@@ -1,0 +1,13 @@
+#.gitignore file for using in golang JetBraing IDE
+
+.env
+.idea
+*.iml
+*.log
+*.out
+*.pid
+*.prof
+*.test
+*.trace
+*.vscode
+/temp
